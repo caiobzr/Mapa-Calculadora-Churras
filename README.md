@@ -1,4 +1,3 @@
-![image](https://github.com/caiobzr/Mapa-Calculadora-Churras/assets/92402417/25636b98-3ed4-4e2b-af27-634ae9094671)# Mapa-Calculadora-Churras
 Calculadora de Churrasco
 
 Esta é uma aplicação desenvolvida para atividade Mapa de meu curso universitário.
